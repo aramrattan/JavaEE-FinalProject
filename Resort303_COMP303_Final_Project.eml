@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component jdk="1.8" jdk_type="JavaSDK">
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$">
+		<excludeFolder url="file://$MODULE_DIR$/build"/>
+	</contentEntry>
+	<levels>
+		<level name="mysql-connector-java-5.1.40-bin" value="project"/>
+		<level name="javax.persistence" value="project"/>
+		<level name="eclipselink-javadocs" value="project"/>
+		<level name="eclipselink-jpars-javadocs" value="project"/>
+		<level name="eclipselink" value="project"/>
+		<level name="Java EE 6-Java EE 6" value="project"/>
+	</levels>
+</component>

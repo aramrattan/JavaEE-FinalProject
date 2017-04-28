@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="mysql-connector-java-5.1.40-bin">
+    <archive path="/home/aaron/Downloads/303/Resort303_COMP303_Final_Project/WebContent/WEB-INF/lib/mysql-connector-java-5.1.40-bin.jar" />
+  </library>
+  <library name="javax.persistence">
+    <archive path="/home/aaron/Downloads/303/Resort303_COMP303_Final_Project/WebContent/WEB-INF/lib/lib/javax.persistence.jar" />
+  </library>
+  <library name="eclipselink-javadocs">
+    <archive path="/home/aaron/Downloads/303/Resort303_COMP303_Final_Project/WebContent/WEB-INF/lib/lib/EclipseLink 2.5.2/eclipselink/eclipselink-javadocs.zip" />
+  </library>
+  <library name="eclipselink-jpars-javadocs" />
+  <library name="eclipselink">
+    <archive path="/home/aaron/Downloads/303/Resort303_COMP303_Final_Project/WebContent/WEB-INF/lib/lib/EclipseLink 2.5.2/eclipselink/jlib/eclipselink.jar" />
+  </library>
+</eclipse-userlibraries>
+
